@@ -4,8 +4,10 @@ const Header = () => {
             <div class="header-logo">
                 
                 <h1>
-                    <a href="/"></a>
-                    100tifi.co
+                    <a href="/">
+                       100tifi.co 
+                    </a>
+                    
                 </h1>
             </div>
             <div class="header-nav">
